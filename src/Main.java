@@ -5,6 +5,6 @@ public class Main {
         System.out.println("hi and goodbye");
         System.out.println("yo");
         System.out.println("line D:");
-        System.out.println("more linessss");
+        System.out.println("NOW THIS IS A LINE >:D");
     }
 }
