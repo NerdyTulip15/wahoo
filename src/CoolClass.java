@@ -4,4 +4,8 @@ public class CoolClass {
     public CoolClass(String str){
         this.str=str;
     }
+
+    public void printStr(){
+        System.out.println(str);
+    }
 }
