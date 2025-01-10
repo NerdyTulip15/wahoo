@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hi and goodbye");
         System.out.println("yo");
-        System.out.println("line :D");
+        System.out.println("line D:");
         System.out.println("more linessss");
     }
 }
