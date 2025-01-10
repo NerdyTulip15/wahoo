@@ -12,4 +12,8 @@ public class CoolClass {
     public int five() {
         return 5;
     }
+
+    public void printCoolStr(){
+        System.out.println("This is a cool str B)");
+    }
 }
