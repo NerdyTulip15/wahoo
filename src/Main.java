@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("hi and goodbye");
+        System.out.println("djaeruthaertgi");
         System.out.println("mayonnaise ");
         System.out.println("line D:");
         System.out.println("NOW THIS IS A LINE >:D");
