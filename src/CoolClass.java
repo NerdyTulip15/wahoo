@@ -8,4 +8,8 @@ public class CoolClass {
     public void printStr(){
         System.out.println(str);
     }
+
+    public int five() {
+        return 5;
+    }
 }
